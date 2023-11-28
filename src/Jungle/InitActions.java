@@ -5,7 +5,7 @@ import java.util.*;
 import Jungle.animals.*;
 import Jungle.envirement.*;
 public class InitActions extends  Actions{
-    public Map map;
+    public Map map; 
 
     public InitActions(Map map) {
         this.map = map;
